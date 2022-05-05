@@ -1,4 +1,4 @@
 # Business Card in React Js
 
-![Business Card](./Businesscard.png)
+![Test Image 1](BusinessCard.png)
 
